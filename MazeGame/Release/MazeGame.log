@@ -1,18 +1,18 @@
 ﻿  MazeGame.cpp
-MazeGame.cpp(152): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-MazeGame.cpp(291): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-MazeGame.cpp(326): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-MazeGame.cpp(328): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-MazeGame.cpp(329): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-MazeGame.cpp(330): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-MazeGame.cpp(405): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-MazeGame.cpp(453): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-MazeGame.cpp(467): warning C4305: 'argument': truncation from 'double' to 'float'
-MazeGame.cpp(473): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-MazeGame.cpp(523): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+MazeGame.cpp(151): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+MazeGame.cpp(286): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MazeGame.cpp(321): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+MazeGame.cpp(323): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MazeGame.cpp(324): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MazeGame.cpp(325): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MazeGame.cpp(400): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MazeGame.cpp(448): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+MazeGame.cpp(462): warning C4305: 'argument': truncation from 'double' to 'float'
+MazeGame.cpp(468): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+MazeGame.cpp(518): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Generating code
-  0 of 379 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    48 functions had inline decision re-evaluated but remain unchanged
+  132 of 346 functions (38.2%) were compiled, the rest were copied from previous compilation.
+    79 functions were new in current compilation
+    73 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   MazeGame.vcxproj -> C:\Users\Admin\Documents\Uni\CPP\MazeGame\Release\MazeGame.exe
