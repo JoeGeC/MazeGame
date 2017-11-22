@@ -3,16 +3,22 @@ MazeGame.cpp(151): warning C4244: 'argument': conversion from 'time_t' to 'unsig
 MazeGame.cpp(286): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
 MazeGame.cpp(321): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
 MazeGame.cpp(323): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-MazeGame.cpp(324): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-MazeGame.cpp(325): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MazeGame.cpp(347): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+MazeGame.cpp(353): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+MazeGame.cpp(360): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+MazeGame.cpp(365): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+MazeGame.cpp(376): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+MazeGame.cpp(397): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
 MazeGame.cpp(400): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
 MazeGame.cpp(448): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+MazeGame.cpp(454): warning C4305: 'argument': truncation from 'double' to 'float'
+MazeGame.cpp(458): warning C4305: 'argument': truncation from 'double' to 'float'
 MazeGame.cpp(462): warning C4305: 'argument': truncation from 'double' to 'float'
 MazeGame.cpp(468): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
 MazeGame.cpp(518): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Generating code
-  132 of 346 functions (38.2%) were compiled, the rest were copied from previous compilation.
-    79 functions were new in current compilation
-    73 functions had inline decision re-evaluated but remain unchanged
+  3 of 346 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    21 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   MazeGame.vcxproj -> C:\Users\Admin\Documents\Uni\CPP\MazeGame\Release\MazeGame.exe
